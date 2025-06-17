@@ -23,7 +23,7 @@
 
 ## 📌 Projetos em Destaque
 
-- 🛰️ **[SMID – Sistema de Monitorização e Integração de Docas](https://github.com/Paulo-DeLima/SMID)**  
+- 🛰️ **[SMID – Sistema de Monitorização Inteligente de Docas](https://github.com/Paulo-DeLima/SMID)**  
   Sistema web completo desenvolvido em **Python/Streamlit** com **MySQL**, interface moderna e lógica de negócio para gestão de agendamentos, docas, encomendas, multiusuário e relatórios.
 
 - 🥷 **[SNMP Remote Control & Monitoring](https://github.com/Paulo-DeLima/SNMP_RemoteControl)**  
