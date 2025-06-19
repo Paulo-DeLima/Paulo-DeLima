@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Paulo H. De Lima
+# 👋 Olá, eu sou o Paulo de Lima
 
 🎓 Estudante - CTeSP de Redes e Segurança Informática no IPCA  
 🛡️ Especializado em segurança de redes, automação e administração de sistemas  
