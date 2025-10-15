@@ -40,6 +40,6 @@ Aprimorar minhas competências em desenvolvimento de sistemas com foco em **infr
 
 ---
 
-📫 **Contato:** paulo.hdelima@gmail.com  
+📫 **Contato:** paulo.delima0598@gmail.com  
 🌍 [LinkedIn](https://linkedin.com/in/paulo-de-lima-622573345)  
 🐙 [GitHub](https://github.com/Paulo-DeLima)
